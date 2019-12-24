@@ -1,0 +1,30 @@
+Location=335,90
+International=true
+UseTopPanel=false
+Pokeballs=8
+Potions=9
+xAccPrio=Rocket
+OneInThirtyNine=false
+AddCrits=false
+AllSplitsOff=false
+DsumStepBased=true
+DsumComplex=true
+
+;Nido Look-and-feel Settings:
+nidoWidth=240
+nidoHeight=80
+nidoBackgroundColor=255,255,255
+nidoTitleText=Nido DV's (0-15)
+nidoTitleFontSize=20
+nidoTitleFont=Arial
+nidoTitleFontExtra=1
+nidoTitleColor=0,0,0
+nidoColumnHeadersFontSize=14
+nidoColumnHeadersFont=Arial
+nidoColumnHeadersFontExtra=1
+nidoColumnHeadersColor=0,0,0
+nidoDVNumbersFontSizeBig=16
+nidoDVNumbersFontSizeSmall=14
+nidoDVNumbersFont=Arial
+nidoDVNumbersFontExtra=1
+nidoDVNumbersColor=0,0,0

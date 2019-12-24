@@ -1,0 +1,262 @@
+//split=split name (adds a new split option to select or deselect, until new split everything will be added to this.
+//trainer=trainer name (adds new trainer to a split, until new split or trainer all moves will be added to this)
+//battle=pokemon order#name#X items used#Badge Boosts
+//move=attack/defend#moveName#isPhysical#Power#Effectiveness#isSTAB#isCrit
+//move=Confused (adds range for hurting yourself in confusion)
+split=Route 3
+trainer=2#Shorts Guy
+battle=1#Rattata#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+battle=2#Ekans#0/0/0/0#0/0/0/0
+move=defend#Wrap#true#15#1.0#1.0#false#false
+battle=2#Ekans (-1)#0/-1/0/0#1/0/0/0
+move=defend#Wrap#true#15#1.0#1.0#false#false
+battle=2#Ekans (-2)#0/-2/0/0#2/0/0/0
+move=defend#Wrap#true#15#1.0#1.0#false#false
+battle=2#Ekans (-3)#0/-3/0/0#3/0/0/0
+move=defend#Wrap#true#15#1.0#1.0#false#false
+
+trainer=3#Bug catcher #2
+battle=3#Caterpie#0/0/0/0#0/0/0/0
+move=defend#Tackle#true#35#1.0#1.0#false#false
+
+trainer=4#Bug catcher #3
+battle=1#Caterpie#0/0/0/0#0/0/0/0
+move=defend#Tackle#true#35#1.0#1.0#false#false
+
+split=Mt Moon
+trainer=8#Rocket
+battle=2#Zubat#0/0/0/0#0/0/0/0
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+move=Confused
+battle=2#Zubat (-1)#0/-1/0/0#1/0/0/0
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+move=Confused
+
+split=Nugget Bridge
+trainer=12#Lass #1
+battle=1#Pidgey#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+battle=2#NidoranF#0/0/0/0#0/0/0/0
+move=defend#Scratch#true#40#1.0#1.0#false#false
+
+trainer=13#Youngster
+battle=1#Rattata#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+battle=2#Ekans#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+battle=3#Zubat#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+
+trainer=14#Lass #2
+battle=1#Pidgey#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+battle=2#NidoranF#0/0/0/0#0/0/0/0
+move=defend#Scratch#true#40#1.0#1.0#false#false
+
+trainer=15#Mankey Guy
+battle=1#Mankey#0/0/0/0#0/0/0/0
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+
+split=Misty
+trainer=18#Hiker
+battle=1#Machop#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+battle=2#Geodude#0/0/0/0#0/0/0/0
+move=defend#Tackle#true#35#1.0#1.0#false#false
+
+trainer=20#Jrtrainer M
+battle=1#Rattata#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+trainer=21#Lass
+battle=2#Pidgey#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+trainer=22#Jrtrainer F
+battle=1#Goldeen#0/0/0/0#0/0/0/0
+move=defend#Peck#true#35#1.0#1.0#false#false
+move=Confused
+battle=1#Goldeen (-1)#0/-1/0/0#1/0/0/0
+move=defend#Peck#true#35#1.0#1.0#false#false
+move=Confused
+
+trainer=23#Misty
+battle=1#Staryu#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+battle=2#Starmie#0/0/0/0#0/0/0/0
+move=defend#Water Gun#false#40#2.0#1.0#true#false
+move=defend#BubbleBeam#false#65#2.0#1.0#true#false
+
+split=Lt. Surge
+trainer=24#Rocket
+battle=1#Machop#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+
+trainer=25#Pidgey Girl
+battle=1#Pidgey#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+trainer=26#Raticate Guy
+battle=2#Raticate#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+trainer=27#SS Anne Rival
+battle=1#Pidgeotto#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+battle=2#Raticate#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Hyper Fang#true#80#1.0#1.0#true#false
+battle=4#Ivysaur#0/0/0/0#0/0/0/0
+move=defend#Vine Whip#false#35#2.0#0.5#true#false
+
+trainer=29#Ltsurge
+battle=1#Voltorb#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+battle=2#Pikachu#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#false#false
+battle=3#Raichu#0/0/0/0#0/0/0/0
+move=Confused
+
+split=Fly
+trainer=30#4-Turn Girl
+battle=4#Bellsprout#0/0/0/0#0/0/0/0
+move=defend#Wrap#true#15#1.0#1.0#false#false
+move=Confused
+
+trainer=31#Bug catcher
+battle=3#Venonat#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+
+trainer=32#Pokemaniac
+battle=1#Cubone#0/0/0/0#0/0/0/0
+move=defend#Bone Club#true#65#2.0#1.0#true#false
+battle=2#Slowpoke#0/0/0/0#0/0/0/0
+move=defend#Confusion#false#50#2.0#1.0#true#false
+
+trainer=33#Pokemaniac
+battle=1#Slowpoke#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+
+trainer=34#Oddish Girl
+battle=1#Oddish#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Absorb#false#20#2.0#0.5#true#false
+
+trainer=36#Jrtrainer F
+battle=3#Pidgey#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+trainer=37#Gambler
+battle=1#Growlithe#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#2.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+battle=2#Vulpix#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#false#false
+
+split=Pokeflute
+trainer=38#Lavender Rival
+battle=1#Pidgeotto#0/0/0/0#0/0/0/0
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+battle=3#Growlithe#0/0/0/0#0/0/0/0
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+
+trainer=42#Rocket #1
+battle=3#Golbat#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Rock Slide#true#75#2.0#1.0#false#false
+
+trainer=44#Rocket #3
+battle=3#Raticate#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+
+split=Silph Co
+trainer=47#Silph Rival
+battle=2#Gyarados (1x)#0/0/1/1#2/2/1/1
+move=defend#Hydro Pump#false#120#2.0#1.0#true#false
+battle=2#Gyarados (2x)#0/0/1/2#3/3/2/1
+move=defend#Hydro Pump#false#120#2.0#1.0#true#false
+
+trainer=49#Giovanni
+battle=1#Nidorino#0/0/0/0#0/0/0/0
+move=defend#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Fury Attack#true#15#1.0#1.0#false#false
+battle=3#Rhyhorn#0/0/0/0#0/0/0/0
+move=defend#Horn Attack#true#65#1.0#1.0#false#false
+
+split=Koga
+trainer=51#Juggler #2
+battle=2#Hypno#0/0/0/0#0/0/0/0
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+
+trainer=52#Koga
+battle=4#Weezing#0/0/0/0#0/0/0/0
+move=defend#Selfdestruct#true#260#1.0#1.0#false#false
+
+split=Erika
+
+split=Blaine
+
+split=Sabrina
+
+split=Giovanni
+trainer=58#Blackbelt
+battle=1#Machoke#0/0/0/0#0/0/0/0
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+move=defend#Low Kick#true#50#0.5#1.0#true#false
+
+split=Elite Four
+trainer=61#Lorelei
+battle=1#Dewgong#0/0/0/0#0/0/0/0
+move=defend#Aurora Beam#false#65#2.0#1.0#true#false
+battle=4#Jynx#0/0/0/0#0/0/0/0
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+
+trainer=62#Bruno
+battle=1#Onix#0/0/0/0#0/0/0/0
+move=defend#Rock Throw#true#50#0.5#1.0#true#false
+move=defend#Slam#true#80#1.0#1.0#false#false
+
+trainer=63#Agatha
+battle=1#Gengar#0/0/1/0#1/1/0/1
+move=Night Shade
+move=Confused
+battle=2#Golbat#0/0/1/0#0/0/0/0
+move=defend#Wing Attack#true#35#1.0#1.0#true#false
+move=Confused
+battle=3#Haunter#0/0/0/0#0/0/0/0
+move=Night Shade
+battle=4#Arbok#0/0/1/0#0/0/0/0
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=Confused
+battle=5#Gengar#0/0/0/0#0/0/0/0
+move=Night Shade
+
+trainer=64#Lance
+battle=1#Gyarados#0/0/0/1#1/1/1/0
+move=defend#Hydro Pump#false#120#2.0#1.0#true#false
+battle=4#Aerodactyl (1X)#0/0/1/1#1/1/0/1
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+
+split=Champion
+trainer=65#Rival3
+battle=1#Pidgeot (1X)#0/0/1/0#1/1/0/1
+move=defend#Wing Attack#true#35#1.0#1.0#true#false
+move=defend#Sky Attack#true#140#1.0#1.0#true#false
+battle=1#Pidgeot (No X)#0/0/0/0#0/0/0/0
+move=defend#Wing Attack#true#35#1.0#1.0#true#false
+move=defend#Sky Attack#true#140#1.0#1.0#true#false
+battle=3#Rhydon#0/0/1/0#1/1/0/1
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+battle=4#Gyarados#0/0/1/0#1/1/0/1
+move=attack#Thunderbolt#false#95#2.0#2.0#false#false

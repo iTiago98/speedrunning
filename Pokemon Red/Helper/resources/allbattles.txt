@@ -1,0 +1,1779 @@
+//All battles, use this to locate a range you want to add in battles.txt
+//trainer=id#name (adds new trainer to a split)
+//battle=pokemon order#name#X items used#Badge Boosts
+//move=attack/defend#moveName#isPhysical#Power#Effectiveness#isSTAB#isCrit
+trainer=0#Brock
+battle=1#Geodude#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#0.5#1.0#false#false
+move=attack#Tackle#true#35#0.5#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Defense Curl#true#-1#1.0#1.0#false#false
+
+battle=2#Onix#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#0.5#1.0#false#false
+move=attack#Tackle#true#35#0.5#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Screech#true#-1#1.0#1.0#false#false
+move=defend#Bide#true#-1#1.0#1.0#false#false
+move=defend#Bind#true#15#1.0#1.0#false#false
+
+trainer=1#Bug catcher
+battle=1#Caterpie#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+battle=2#Weedle#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#1.0#true#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+battle=3#Caterpie#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+trainer=2#Youngster
+battle=1#Rattata#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+battle=2#Ekans#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Wrap#true#15#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#1.0#true#false
+
+trainer=3#Bug catcher
+battle=1#Weedle#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#1.0#true#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+battle=2#Kakuna#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Harden#true#-1#1.0#1.0#false#false
+
+battle=3#Caterpie#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+battle=4#Metapod#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Harden#true#-1#1.0#1.0#false#false
+
+trainer=4#Bug catcher
+battle=1#Caterpie#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+battle=2#Metapod#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Harden#true#-1#1.0#1.0#false#false
+
+trainer=5#Super nerd
+battle=1#Magnemite#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+
+battle=2#Voltorb#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Screech#true#-1#1.0#1.0#false#false
+
+trainer=6#Lass
+battle=1#Oddish#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=defend#Absorb#false#20#0.5#1.0#true#false
+
+battle=2#Bellsprout#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Tackle#true#35#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=defend#Vine Whip#false#35#0.5#1.0#true#false
+move=defend#Growth#true#-1#1.0#1.0#false#false
+
+trainer=7#Hiker
+battle=1#Geodude#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#0.5#1.0#false#false
+move=attack#Horn Attack#true#65#0.5#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#0.5#true#false
+move=attack#Water Gun#false#40#2.0#2.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+
+battle=2#Geodude#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#0.5#1.0#false#false
+move=attack#Horn Attack#true#65#0.5#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#0.5#true#false
+move=attack#Water Gun#false#40#2.0#2.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+
+battle=3#Onix#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#0.5#1.0#false#false
+move=attack#Horn Attack#true#65#0.5#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#0.5#true#false
+move=attack#Water Gun#false#40#2.0#2.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Screech#true#-1#1.0#1.0#false#false
+
+trainer=8#Rocket
+battle=1#Rattata#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+battle=2#Zubat#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+
+trainer=9#Super nerd
+battle=1#Grimer#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Pound#true#40#1.0#1.0#false#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+
+battle=2#Voltorb#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Screech#true#-1#1.0#1.0#false#false
+
+battle=3#Koffing#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Smog#true#20#0.5#0.5#true#false
+
+trainer=10#Rival1
+battle=1#Pidgeotto#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+battle=2#Abra#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Teleport#false#-1#2.0#1.0#true#false
+
+battle=3#Rattata#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Hyper Fang#true#80#1.0#1.0#true#false
+
+battle=4#Bulbasaur#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Water Gun#false#40#0.5#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Leech Seed#false#-1#2.0#0.5#true#false
+move=defend#Vine Whip#false#35#2.0#0.5#true#false
+
+trainer=11#Bug catcher
+battle=1#Caterpie#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#2.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+battle=2#Weedle#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#2.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+trainer=12#Lass
+battle=1#Pidgey#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+battle=2#NidoranF#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Scratch#true#40#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+
+trainer=13#Youngster
+battle=1#Rattata#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Hyper Fang#true#80#1.0#1.0#true#false
+
+battle=2#Ekans#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Wrap#true#15#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+
+battle=3#Zubat#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+
+trainer=14#Lass
+battle=1#Pidgey#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+battle=2#NidoranF#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Scratch#true#40#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+
+trainer=15#Jrtrainerm
+battle=1#Mankey#0/0/0/0#0/0/0/0
+move=attack#Leer#true#-1#1.0#1.0#false#false
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=defend#Scratch#true#40#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+
+trainer=16#Rocket
+battle=1#Ekans#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Wrap#true#15#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+
+battle=2#Zubat#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+
+trainer=17#Hiker
+battle=1#Onix#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#0.5#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#0.5#true#false
+move=attack#Water Gun#false#40#2.0#2.0#false#false
+move=attack#Thrash#true#90#0.5#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Screech#true#-1#1.0#1.0#false#false
+move=defend#Bind#true#15#1.0#1.0#false#false
+
+trainer=18#Hiker
+battle=1#Machop#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+
+battle=2#Geodude#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#0.5#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#0.5#true#false
+move=attack#Water Gun#false#40#2.0#2.0#false#false
+move=attack#Thrash#true#90#0.5#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Defense Curl#true#-1#1.0#1.0#false#false
+
+trainer=19#Lass
+battle=1#NidoranM#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+
+battle=2#NidoranF#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Scratch#true#40#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+
+trainer=20#Jrtrainerm
+battle=1#Rattata#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Hyper Fang#true#80#1.0#1.0#true#false
+
+battle=2#Ekans#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Wrap#true#15#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+
+trainer=21#Lass
+battle=1#Oddish#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Water Gun#false#40#0.5#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Absorb#false#20#2.0#0.5#true#false
+
+battle=2#Pidgey#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+battle=3#Oddish#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Water Gun#false#40#0.5#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Absorb#false#20#2.0#0.5#true#false
+
+trainer=22#Jrtrainerf
+battle=1#Goldeen#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#0.5#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Peck#true#35#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+
+trainer=23#Misty
+battle=1#Staryu#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#0.5#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Water Gun#false#40#2.0#1.0#true#false
+
+battle=2#Starmie#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#0.5#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Water Gun#false#40#2.0#1.0#true#false
+move=defend#Harden#true#-1#1.0#1.0#false#false
+move=defend#BubbleBeam#false#65#2.0#1.0#true#false
+
+trainer=24#Rocket
+battle=1#Machop#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+
+battle=2#Drowzee#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Pound#true#40#1.0#1.0#false#false
+move=defend#Hypnosis#false#-1#2.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+
+trainer=25#Jrtrainerf
+battle=1#Pidgey#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+battle=2#Pidgey#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+battle=3#Pidgey#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+trainer=26#Jrtrainerm
+battle=1#Spearow#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Peck#true#35#1.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#true#false
+move=defend#Fury Attack#true#15#1.0#1.0#true#false
+
+battle=2#Raticate#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Water Gun#false#40#1.0#1.0#false#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Hyper Fang#true#80#1.0#1.0#true#false
+
+trainer=27#Rival2
+battle=1#Pidgeotto#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+
+battle=2#Raticate#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Hyper Fang#true#80#1.0#1.0#true#false
+
+battle=3#Kadabra#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=defend#Teleport#false#-1#2.0#1.0#true#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+
+battle=4#Ivysaur#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Leech Seed#false#-1#2.0#0.5#true#false
+move=defend#Vine Whip#false#35#2.0#0.5#true#false
+
+trainer=28#Gentleman
+battle=1#Growlithe#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#2.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Roar#true#-1#1.0#1.0#false#false
+
+battle=2#Ponyta#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#2.0#1.0#false#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+
+trainer=29#Ltsurge
+battle=1#Voltorb#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Screech#true#-1#1.0#1.0#false#false
+move=defend#SonicBoom#true#-2#1.0#1.0#false#false
+
+battle=2#Pikachu#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=defend#ThunderShock#false#40#0.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Thunder Wave#false#-1#0.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#false#false
+
+battle=3#Raichu#0/0/0/0#0/0/0/0
+move=attack#Horn Attack#true#65#1.0#1.0#false#false
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=defend#ThunderShock#false#40#0.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Thunder Wave#false#-1#0.0#1.0#true#false
+move=defend#Thunderbolt#false#95#0.0#1.0#true#false
+
+trainer=30#Jrtrainerf
+battle=1#Oddish#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=defend#Absorb#false#20#2.0#0.5#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Stun Spore#false#-1#2.0#0.5#true#false
+
+battle=2#Bellsprout#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=defend#Growth#true#-1#1.0#1.0#false#false
+move=defend#Wrap#true#15#1.0#1.0#false#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Sleep Powder#false#-1#2.0#0.5#true#false
+
+battle=3#Oddish#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=defend#Absorb#false#20#2.0#0.5#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Stun Spore#false#-1#2.0#0.5#true#false
+
+battle=4#Bellsprout#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=defend#Growth#true#-1#1.0#1.0#false#false
+move=defend#Wrap#true#15#1.0#1.0#false#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Sleep Powder#false#-1#2.0#0.5#true#false
+
+trainer=31#Bug catcher
+battle=1#Caterpie#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#2.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+battle=2#Weedle#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#0.5#2.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+move=defend#String Shot#true#-1#2.0#1.0#true#false
+
+battle=3#Venonat#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#0.5#2.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+
+trainer=32#Pokemaniac
+battle=1#Cubone#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#0.5#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#2.0#1.0#false#false
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=defend#Bone Club#true#65#2.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+
+battle=2#Slowpoke#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+
+trainer=33#Pokemaniac
+battle=1#Slowpoke#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+
+trainer=34#Jrtrainerf
+battle=1#Oddish#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=defend#Absorb#false#20#2.0#0.5#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Stun Spore#false#-1#2.0#0.5#true#false
+move=defend#Sleep Powder#false#-1#2.0#0.5#true#false
+
+battle=2#Bulbasaur#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Leech Seed#false#-1#2.0#0.5#true#false
+move=defend#Vine Whip#false#35#2.0#0.5#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+
+trainer=35#Hiker
+battle=1#Geodude#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#0.5#0.5#true#false
+move=attack#Thrash#true#90#0.5#1.0#false#false
+move=attack#BubbleBeam#false#65#2.0#2.0#false#false
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Defense Curl#true#-1#1.0#1.0#false#false
+move=defend#Rock Throw#true#50#0.5#1.0#true#false
+move=defend#Selfdestruct#true#260#1.0#1.0#false#false
+
+battle=2#Geodude#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#0.5#0.5#true#false
+move=attack#Thrash#true#90#0.5#1.0#false#false
+move=attack#BubbleBeam#false#65#2.0#2.0#false#false
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Defense Curl#true#-1#1.0#1.0#false#false
+move=defend#Rock Throw#true#50#0.5#1.0#true#false
+move=defend#Selfdestruct#true#260#1.0#1.0#false#false
+
+battle=3#Graveler#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#0.5#0.5#true#false
+move=attack#Thrash#true#90#0.5#1.0#false#false
+move=attack#BubbleBeam#false#65#2.0#2.0#false#false
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Defense Curl#true#-1#1.0#1.0#false#false
+move=defend#Rock Throw#true#50#0.5#1.0#true#false
+move=defend#Selfdestruct#true#260#1.0#1.0#false#false
+
+trainer=36#Jrtrainerf
+battle=1#Meowth#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=defend#Scratch#true#40#1.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#true#false
+move=defend#Bite#true#60#1.0#1.0#true#false
+move=defend#Pay Day#true#40#1.0#1.0#true#false
+
+battle=2#Oddish#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#2.0#0.5#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#0.5#1.0#false#false
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=defend#Absorb#false#20#2.0#0.5#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Stun Spore#false#-1#2.0#0.5#true#false
+move=defend#Sleep Powder#false#-1#2.0#0.5#true#false
+
+battle=3#Pidgey#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Whirlwind#true#-1#1.0#1.0#true#false
+
+trainer=37#Gambler
+battle=1#Growlithe#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#2.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Roar#true#-1#1.0#1.0#false#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+
+battle=2#Vulpix#0/0/0/0#0/0/0/0
+move=attack#Poison Sting#true#15#1.0#1.0#true#false
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#BubbleBeam#false#65#2.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Quick Attack#true#40#1.0#1.0#false#false
+move=defend#Roar#true#-1#1.0#1.0#false#false
+
+trainer=38#Rival2
+battle=1#Pidgeotto#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#2.0#1.0#false#false
+move=defend#Gust#true#40#1.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Whirlwind#true#-1#1.0#1.0#true#false
+
+battle=2#Gyarados#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#2.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#2.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Dragon Rage#false#-2#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Hydro Pump#false#120#2.0#1.0#true#false
+
+battle=3#Growlithe#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#2.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Roar#true#-1#1.0#1.0#false#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+
+battle=4#Kadabra#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Teleport#false#-1#2.0#1.0#true#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+
+battle=5#Ivysaur#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Leech Seed#false#-1#2.0#0.5#true#false
+move=defend#Vine Whip#false#35#2.0#0.5#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+
+trainer=39#Channeler
+battle=1#Gastly#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#0.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Lick#true#20#1.0#1.0#true#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#true#false
+move=defend#Night Shade#true#-1#1.0#1.0#true#false
+
+battle=2#Gastly#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#0.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Lick#true#20#1.0#1.0#true#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#true#false
+move=defend#Night Shade#true#-1#1.0#1.0#true#false
+
+trainer=40#Channeler
+battle=1#Gastly#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#0.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Lick#true#20#1.0#1.0#true#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#true#false
+move=defend#Night Shade#true#-1#1.0#1.0#true#false
+
+trainer=41#Channeler
+battle=1#Gastly#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#0.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Lick#true#20#1.0#1.0#true#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#true#false
+move=defend#Night Shade#true#-1#1.0#1.0#true#false
+
+trainer=42#Rocket
+battle=1#Zubat#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#2.0#1.0#false#false
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#false#false
+
+battle=2#Zubat#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#2.0#1.0#false#false
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#false#false
+
+battle=3#Golbat#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#2.0#1.0#false#false
+move=defend#Screech#true#-1#1.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#false#false
+
+trainer=43#Rocket
+battle=1#Koffing#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Smog#true#20#0.5#0.5#true#false
+
+battle=2#Drowzee#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Hypnosis#false#-1#2.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+
+trainer=44#Rocket
+battle=1#Zubat#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#2.0#1.0#false#false
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#false#false
+
+battle=2#Rattata#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Hyper Fang#true#80#1.0#1.0#true#false
+move=defend#Focus Energy#true#-1#1.0#1.0#true#false
+
+battle=3#Raticate#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#1.0#1.0#false#false
+move=defend#Tackle#true#35#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Hyper Fang#true#80#1.0#1.0#true#false
+
+battle=4#Zubat#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Rock Slide#true#75#2.0#1.0#false#false
+move=defend#Leech Life#true#20#2.0#1.0#false#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#false#false
+
+trainer=45#Rocket
+battle=1#Machoke#0/0/0/0#0/0/0/0
+move=attack#Thrash#true#90#1.0#1.0#false#false
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+move=defend#Low Kick#true#50#0.5#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+
+trainer=46#Rocket
+battle=1#Arbok#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Glare#true#-1#1.0#1.0#false#false
+
+trainer=47#Rival2
+battle=1#Pidgeot#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Whirlwind#true#-1#1.0#1.0#true#false
+move=defend#Wing Attack#true#35#1.0#1.0#true#false
+
+battle=2#Gyarados#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#2.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#0.5#2.0#false#false
+move=attack#Earthquake#true#100#0.0#1.0#true#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Dragon Rage#false#-2#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Hydro Pump#false#120#2.0#1.0#true#false
+
+battle=3#Growlithe#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Roar#true#-1#1.0#1.0#false#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Take Down#true#90#1.0#1.0#false#false
+
+battle=4#Alakazam#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Psybeam#false#65#2.0#1.0#true#false
+move=defend#Recover#true#-1#1.0#1.0#false#false
+
+battle=5#Venusaur#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.5#2.0#true#false
+move=defend#Leech Seed#false#-1#2.0#0.5#true#false
+move=defend#Vine Whip#false#35#2.0#0.5#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Razor Leaf#false#55#2.0#0.5#true#false
+
+trainer=48#Rocket
+battle=1#Cubone#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Bone Club#true#65#2.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Focus Energy#true#-1#1.0#1.0#false#false
+
+battle=2#Drowzee#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+move=defend#Poison Gas#true#-1#0.5#0.5#false#false
+move=defend#Psychic#false#90#2.0#1.0#true#false
+
+battle=3#Marowak#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Bone Club#true#65#2.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Focus Energy#true#-1#1.0#1.0#false#false
+
+trainer=49#Giovanni
+battle=1#Nidorino#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+move=defend#Focus Energy#true#-1#1.0#1.0#false#false
+move=defend#Fury Attack#true#15#1.0#1.0#false#false
+
+battle=2#Kangaskhan#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Comet Punch#true#18#1.0#1.0#true#false
+move=defend#Rage#true#20#1.0#1.0#true#false
+move=defend#Bite#true#60#1.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#true#false
+
+battle=3#Rhyhorn#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.5#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Stomp#true#65#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+
+battle=4#Nidoqueen#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Scratch#true#40#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Body Slam#true#85#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+
+trainer=50#Juggler
+battle=1#Drowzee#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+move=defend#Poison Gas#true#-1#0.5#0.5#false#false
+
+battle=2#Drowzee#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+move=defend#Poison Gas#true#-1#0.5#0.5#false#false
+
+battle=3#Kadabra#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Psybeam#false#65#2.0#1.0#true#false
+move=defend#Recover#true#-1#1.0#1.0#false#false
+
+battle=4#Drowzee#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+move=defend#Poison Gas#true#-1#0.5#0.5#false#false
+
+trainer=51#Juggler
+battle=1#Drowzee#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+move=defend#Poison Gas#true#-1#0.5#0.5#false#false
+move=defend#Psychic#false#90#2.0#1.0#true#false
+
+battle=2#Hypno#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Headbutt#true#70#1.0#1.0#false#false
+move=defend#Poison Gas#true#-1#0.5#0.5#false#false
+
+trainer=52#Koga
+battle=1#Koffing#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Smog#true#20#0.5#0.5#true#false
+move=defend#Sludge#true#65#0.5#0.5#true#false
+move=defend#SmokeScreen#true#-1#1.0#1.0#false#false
+
+battle=2#Muk#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Poison Gas#true#-1#0.5#0.5#true#false
+move=defend#Minimize#true#-1#1.0#1.0#false#false
+move=defend#Sludge#true#65#0.5#0.5#true#false
+
+battle=3#Koffing#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Smog#true#20#0.5#0.5#true#false
+move=defend#Sludge#true#65#0.5#0.5#true#false
+move=defend#SmokeScreen#true#-1#1.0#1.0#false#false
+
+battle=4#Weezing#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Smog#true#20#0.5#0.5#true#false
+move=defend#Sludge#true#65#0.5#0.5#true#false
+move=defend#Toxic#true#-1#0.5#0.5#true#false
+move=defend#Selfdestruct#true#260#1.0#1.0#false#false
+
+trainer=53#Beauty
+battle=1#Exeggcute#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.5#1.0#true#false
+move=defend#Barrage#true#15#1.0#1.0#false#false
+move=defend#Hypnosis#false#-1#2.0#1.0#true#false
+move=defend#Reflect#false#-1#2.0#1.0#true#false
+
+trainer=54#Erika
+battle=1#Victreebel#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.5#2.0#true#false
+move=defend#Wrap#true#15#1.0#1.0#false#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Sleep Powder#false#-1#2.0#0.5#true#false
+move=defend#Razor Leaf#false#55#2.0#0.5#true#false
+
+battle=2#Tangela#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.5#1.0#true#false
+move=defend#Constrict#true#10#1.0#1.0#false#false
+move=defend#Bind#true#15#1.0#1.0#false#false
+
+battle=3#Vileplume#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.5#2.0#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Mega Drain#false#40#2.0#0.5#true#false
+move=defend#Sleep Powder#false#-1#2.0#0.5#true#false
+move=defend#Petal Dance#false#70#2.0#0.5#true#false
+
+trainer=55#Blaine
+battle=1#Growlithe#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Take Down#true#90#1.0#1.0#false#false
+move=defend#Agility#false#-1#2.0#1.0#false#false
+
+battle=2#Ponyta#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Stomp#true#65#1.0#1.0#false#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Fire Spin#false#15#1.0#1.0#true#false
+
+battle=3#Rapidash#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Stomp#true#65#1.0#1.0#false#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Fire Spin#false#15#1.0#1.0#true#false
+
+battle=4#Arcanine#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Roar#true#-1#1.0#1.0#false#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+move=defend#Take Down#true#90#1.0#1.0#false#false
+move=defend#Fire Blast#false#120#1.0#1.0#true#false
+
+trainer=56#Sabrina
+battle=1#Kadabra#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Disable#true#-1#1.0#1.0#false#false
+move=defend#Psybeam#false#65#2.0#1.0#true#false
+move=defend#Recover#true#-1#1.0#1.0#false#false
+move=defend#Psychic#false#90#2.0#1.0#true#false
+
+battle=2#MrMime#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Confusion#false#50#2.0#1.0#true#false
+move=defend#Barrier#false#-1#2.0#1.0#true#false
+move=defend#Light Screen#false#-1#2.0#1.0#true#false
+move=defend#DoubleSlap#true#15#1.0#1.0#false#false
+
+battle=3#Venomoth#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#0.5#2.0#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Leech Life#true#20#2.0#1.0#true#false
+move=defend#Stun Spore#false#-1#2.0#0.5#false#false
+move=defend#Psybeam#false#65#2.0#1.0#false#false
+
+battle=4#Alakazam#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Psybeam#false#65#2.0#1.0#true#false
+move=defend#Recover#true#-1#1.0#1.0#false#false
+move=defend#Psywave#false#-1#2.0#1.0#true#false
+move=defend#Reflect#false#-1#2.0#1.0#true#false
+
+trainer=57#Cooltrainerm
+battle=1#Rhyhorn#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.5#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Stomp#true#65#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Fury Attack#true#15#1.0#1.0#false#false
+
+trainer=58#Blackbelt
+battle=1#Machoke#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+move=defend#Low Kick#true#50#0.5#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Focus Energy#true#-1#1.0#1.0#false#false
+
+battle=2#Machop#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+move=defend#Low Kick#true#50#0.5#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Focus Energy#true#-1#1.0#1.0#false#false
+
+battle=3#Machoke#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Karate Chop#true#50#1.0#1.0#false#false
+move=defend#Low Kick#true#50#0.5#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Focus Energy#true#-1#1.0#1.0#false#false
+
+trainer=59#Giovanni
+battle=1#Rhyhorn#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.5#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Stomp#true#65#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Fury Attack#true#15#1.0#1.0#false#false
+move=defend#Horn Attack#true#65#1.0#1.0#false#false
+
+battle=2#Dugtrio#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Dig#true#100#2.0#1.0#true#false
+move=defend#Sand-Attack#true#-1#1.0#1.0#false#false
+move=defend#Slash#true#70#1.0#1.0#false#false
+
+battle=3#Nidoqueen#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Scratch#true#40#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Body Slam#true#85#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+
+battle=4#Nidoking#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Tackle#true#35#1.0#1.0#false#false
+move=defend#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Poison Sting#true#15#0.5#0.5#true#false
+move=defend#Thrash#true#90#1.0#1.0#false#false
+
+battle=5#Rhydon#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.5#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Stomp#true#65#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Fissure#true#-1#2.0#1.0#true#false
+move=defend#Horn Drill#true#-1#1.0#1.0#false#false
+
+trainer=60#Rival2
+battle=1#Pidgeot#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.0#1.0#true#false
+move=defend#Quick Attack#true#40#1.0#1.0#true#false
+move=defend#Whirlwind#true#-1#1.0#1.0#true#false
+move=defend#Wing Attack#true#35#1.0#1.0#true#false
+move=defend#Agility#false#-1#2.0#1.0#false#false
+
+battle=2#Rhyhorn#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.5#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Fury Attack#true#15#1.0#1.0#false#false
+move=defend#Stomp#true#65#1.0#1.0#false#false
+move=defend#Horn Attack#true#65#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+
+battle=3#Gyarados#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#2.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#0.5#2.0#false#false
+move=attack#Earthquake#true#100#0.0#1.0#true#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Dragon Rage#false#-2#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Hydro Pump#false#120#2.0#1.0#true#false
+
+battle=4#Growlithe#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Take Down#true#90#1.0#1.0#false#false
+move=defend#Agility#false#-1#2.0#1.0#false#false
+
+battle=5#Alakazam#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Psybeam#false#65#2.0#1.0#true#false
+move=defend#Recover#true#-1#1.0#1.0#false#false
+move=defend#Psychic#false#90#2.0#1.0#true#false
+move=defend#Reflect#false#-1#2.0#1.0#true#false
+
+battle=6#Venusaur#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.5#2.0#true#false
+move=defend#Vine Whip#false#35#2.0#0.5#true#false
+move=defend#PoisonPowder#true#-1#0.5#0.5#true#false
+move=defend#Razor Leaf#false#55#2.0#0.5#true#false
+move=defend#Growth#true#-1#1.0#1.0#false#false
+
+trainer=61#Lorelei
+battle=1#Dewgong#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#0.5#0.5#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Aurora Beam#false#65#2.0#1.0#true#false
+move=defend#Rest#false#-1#2.0#1.0#false#false
+move=defend#Take Down#true#90#1.0#1.0#false#false
+
+battle=2#Cloyster#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#0.5#0.5#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+move=defend#Clamp#false#35#2.0#1.0#true#false
+move=defend#Aurora Beam#false#65#2.0#1.0#true#false
+move=defend#Spike Cannon#true#20#1.0#1.0#false#false
+
+battle=3#Slowbro#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#0.5#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Growl#true#-1#1.0#1.0#false#false
+move=defend#Water Gun#false#40#2.0#1.0#true#false
+move=defend#Withdraw#false#-1#2.0#1.0#true#false
+move=defend#Amnesia#false#-1#2.0#1.0#true#false
+
+battle=4#Jynx#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#0.5#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#DoubleSlap#true#15#1.0#1.0#false#false
+move=defend#Ice Punch#false#75#2.0#1.0#true#false
+move=defend#Body Slam#true#85#1.0#1.0#false#false
+move=defend#Thrash#true#90#1.0#1.0#false#false
+
+battle=5#Lapras#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#0.5#0.5#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Body Slam#true#85#1.0#1.0#false#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#false#false
+move=defend#Hydro Pump#false#120#2.0#1.0#true#false
+move=defend#Blizzard#false#120#2.0#1.0#true#false
+
+trainer=62#Bruno
+battle=1#Onix#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.5#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Rock Throw#true#50#0.5#1.0#true#false
+move=defend#Rage#true#20#1.0#1.0#false#false
+move=defend#Slam#true#80#1.0#1.0#false#false
+move=defend#Harden#true#-1#1.0#1.0#false#false
+
+battle=2#Hitmonchan#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Ice Punch#false#75#2.0#1.0#false#false
+move=defend#ThunderPunch#false#75#0.0#1.0#false#false
+move=defend#Mega Punch#true#80#1.0#1.0#false#false
+move=defend#Counter#true#-1#0.5#1.0#true#false
+
+battle=3#Hitmonlee#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Jump Kick#true#70#0.5#1.0#true#false
+move=defend#Focus Energy#true#-1#1.0#1.0#false#false
+move=defend#Hi Jump Kick#true#85#0.5#1.0#true#false
+move=defend#Mega Kick#true#120#1.0#1.0#false#false
+
+battle=4#Onix#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.5#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Rock Throw#true#50#0.5#1.0#true#false
+move=defend#Rage#true#20#1.0#1.0#false#false
+move=defend#Slam#true#80#1.0#1.0#false#false
+move=defend#Harden#true#-1#1.0#1.0#false#false
+
+battle=5#Machamp#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Focus Energy#true#-1#1.0#1.0#false#false
+move=defend#Fissure#true#-1#2.0#1.0#false#false
+move=defend#Submission#true#80#0.5#1.0#true#false
+
+trainer=63#Agatha
+battle=1#Gengar#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#true#false
+move=defend#Night Shade#true#-1#1.0#1.0#true#false
+move=defend#Hypnosis#false#-1#2.0#1.0#false#false
+move=defend#Dream Eater#false#100#2.0#1.0#false#false
+
+battle=2#Golbat#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.0#2.0#true#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#false#false
+move=defend#Wing Attack#true#35#1.0#1.0#true#false
+move=defend#Haze#false#-1#2.0#1.0#false#false
+
+battle=3#Haunter#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#true#false
+move=defend#Night Shade#true#-1#1.0#1.0#true#false
+move=defend#Hypnosis#false#-1#2.0#1.0#false#false
+move=defend#Dream Eater#false#100#2.0#1.0#false#false
+
+battle=4#Arbok#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Glare#true#-1#1.0#1.0#false#false
+move=defend#Screech#true#-1#1.0#1.0#false#false
+move=defend#Acid#true#40#0.5#0.5#true#false
+
+battle=5#Gengar#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Confuse Ray#true#-1#1.0#1.0#true#false
+move=defend#Night Shade#true#-1#1.0#1.0#true#false
+move=defend#Toxic#true#-1#0.5#0.5#true#false
+move=defend#Dream Eater#false#100#2.0#1.0#false#false
+
+trainer=64#Lance
+battle=1#Gyarados#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#2.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#0.5#2.0#false#false
+move=attack#Earthquake#true#100#0.0#1.0#true#false
+move=defend#Dragon Rage#false#-2#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Hydro Pump#false#120#2.0#1.0#true#false
+move=defend#Hyper Beam#true#150#1.0#1.0#false#false
+
+battle=2#Dragonair#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Agility#false#-1#2.0#1.0#false#false
+move=defend#Slam#true#80#1.0#1.0#false#false
+move=defend#Dragon Rage#false#-2#1.0#1.0#true#false
+move=defend#Hyper Beam#true#150#1.0#1.0#false#false
+
+battle=3#Dragonair#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Agility#false#-1#2.0#1.0#false#false
+move=defend#Slam#true#80#1.0#1.0#false#false
+move=defend#Dragon Rage#false#-2#1.0#1.0#true#false
+move=defend#Hyper Beam#true#150#1.0#1.0#false#false
+
+battle=4#Aerodactyl#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.5#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.0#2.0#true#false
+move=defend#Supersonic#true#-1#1.0#1.0#false#false
+move=defend#Bite#true#60#1.0#1.0#false#false
+move=defend#Take Down#true#90#1.0#1.0#false#false
+move=defend#Hyper Beam#true#150#1.0#1.0#false#false
+
+battle=5#Dragonite#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#0.5#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#2.0#false#false
+move=attack#Earthquake#true#100#0.0#1.0#true#false
+move=defend#Agility#false#-1#2.0#1.0#false#false
+move=defend#Slam#true#80#1.0#1.0#false#false
+move=defend#Barrier#false#-1#2.0#1.0#false#false
+move=defend#Hyper Beam#true#150#1.0#1.0#false#false
+
+trainer=65#Rival3
+battle=1#Pidgeot#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.0#1.0#true#false
+move=defend#Wing Attack#true#35#1.0#1.0#true#false
+move=defend#Mirror Move#true#-1#1.0#1.0#true#false
+move=defend#Sky Attack#true#140#1.0#1.0#true#false
+move=defend#Whirlwind#true#-1#1.0#1.0#true#false
+
+battle=2#Alakazam#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#1.0#1.0#true#false
+move=defend#Psybeam#false#65#2.0#1.0#true#false
+move=defend#Recover#true#-1#1.0#1.0#false#false
+move=defend#Psychic#false#90#2.0#1.0#true#false
+move=defend#Reflect#false#-1#2.0#1.0#true#false
+
+battle=3#Rhydon#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.0#1.0#false#false
+move=attack#Horn Drill#true#-1#0.5#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Tail Whip#true#-1#1.0#1.0#false#false
+move=defend#Fury Attack#true#15#1.0#1.0#false#false
+move=defend#Horn Drill#true#-1#1.0#1.0#false#false
+
+battle=4#Gyarados#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#2.0#2.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#0.5#2.0#false#false
+move=attack#Earthquake#true#100#0.0#1.0#true#false
+move=defend#Dragon Rage#false#-2#1.0#1.0#false#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Hydro Pump#false#120#2.0#1.0#true#false
+move=defend#Hyper Beam#true#150#1.0#1.0#false#false
+
+battle=5#Arcanine#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#1.0#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#1.0#1.0#false#false
+move=attack#Earthquake#true#100#2.0#1.0#true#false
+move=defend#Roar#true#-1#1.0#1.0#false#false
+move=defend#Ember#false#40#1.0#1.0#true#false
+move=defend#Leer#true#-1#1.0#1.0#false#false
+move=defend#Take Down#true#90#1.0#1.0#false#false
+
+battle=6#Venusaur#0/0/0/0#0/0/0/0
+move=attack#Thunderbolt#false#95#0.5#1.0#false#false
+move=attack#Horn Drill#true#-1#1.0#1.0#false#false
+move=attack#Ice Beam#false#95#2.0#1.0#false#false
+move=attack#Earthquake#true#100#0.5#2.0#true#false
+move=defend#Growth#true#-1#1.0#1.0#false#false
+move=defend#Mega Drain#false#40#2.0#0.5#true#false
+move=defend#Razor Leaf#false#55#2.0#0.5#true#false
+move=defend#SolarBeam#false#120#2.0#0.5#true#false

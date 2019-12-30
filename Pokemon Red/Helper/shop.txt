@@ -3,9 +3,9 @@
 1x TM07:		2000
 1x Poke Doll:		1000
 11x X Accuracy:		10450
-4x X Speed:		1400
+5x X Speed:		1750
 2x X Special:		700
 1x Soda Pop:		300
 1x Fresh Water:		200
 
-TOTAL:			23150
+TOTAL:			23500

@@ -5,19 +5,19 @@ x speed
 x spec
 
 super potion
-full restore
-antidote/tm34
+full restore		<-
+full heal		<-
 ss ticket
 helix fossil
 
 hm01
 hm02
 hm03
-golden teeth/hm04
+goldw teeth/hm04
 rare candy/gym key
 
-max ether
+card key
 ether
 elixir
-potion
+potion			<-
 pokeflute

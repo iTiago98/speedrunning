@@ -6,7 +6,7 @@ x spec
 
 super potion
 full restore		<-
-full heal		<-
+Prz cure		<-
 ss ticket
 helix fossil
 

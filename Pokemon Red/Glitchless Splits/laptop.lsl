@@ -112,7 +112,7 @@
             <Version>1.5</Version>
             <Name>PB</Name>
             <Type>DeltaorSplitTime</Type>
-            <Comparison>PB</Comparison>
+            <Comparison>Personal Best</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
           <Settings>
